@@ -461,14 +461,14 @@ local Back =
 
 local Credit  =
     FirstPage.AddLabel(
-    "Owner : JoJo#2494",
+    "Owner : Larry#8203",
     function()
     end
 )
 
 local Credit  =
     FirstPage.AddLabel(
-    "discord.gg/jojoW",
+    "discord.gg/6dwNx4VVEj",
     function()
     end
 )
